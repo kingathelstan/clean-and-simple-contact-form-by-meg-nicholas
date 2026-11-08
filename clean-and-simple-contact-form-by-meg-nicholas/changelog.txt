@@ -92,7 +92,7 @@
 * add auto integration  of Fullworks Anti Spam
 
 = 4.8.0 =
-* add header to stop chaining ( kudos @kashmiri )
+* Improved security ( kudos @kashmiri )
 * add filter pre email sending to add flexibility for developers
 
 = 4.7.10 =
@@ -120,19 +120,19 @@
 * correct a couple of text domain issues introduced at 4.7.2
 
 = 4.7.4 =
-* correct santization
+* Improved security
 
 = 4.7.3 =
 * correct from email in certain circumstances
 
 = 4.7.2 =
-* Updated santization and escaping to current plugin directory recommendations
+* Improved security, in line with current plugin directory recommendations
 * add email header to specify text to improve formatting
 * tested up to 5.8 beta 2 and PHP 8.0
 
 = 4.7.1 =
 * Tested with WordPress version 5.3
-Fixed XSS vulnerability in GDPR consent message
+* Improved security
 
 = 4.7.0 =
 * Tested with WordPress version 4.9.6
@@ -180,7 +180,7 @@ Fixed XSS vulnerability in GDPR consent message
 * Added Indonesian translations thanks to Beny Hirmansyah
 
 = 4.4.0 =
-* Fixed XSS issue
+* Improved security
 
 = 4.4.1 =
 * Add option for enquiry to email themselves a copy of the message
